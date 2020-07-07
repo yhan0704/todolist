@@ -1,3 +1,12 @@
+# Todo List
+
+## Used Skills
+* React
+* Hook
+* Styled-Components
+* Context API
+* Custom Hook
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
