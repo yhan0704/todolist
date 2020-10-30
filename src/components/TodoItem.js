@@ -23,10 +23,10 @@ const CheckCircle = styled.div`
   border:1px solid #ced4da;
   font-size:24px;
   display:flex;
-  align-item:center;
+  align-items:center;
   justify-content:center;
   margin-right:20px;
-  curor:pointer;
+  cursor: pointer;
   ${props => props.done && css`
     border:1px solid #38d9a9;
     color:#389a9;

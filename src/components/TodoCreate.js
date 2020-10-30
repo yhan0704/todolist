@@ -30,7 +30,7 @@ const CircleButton = styled.div`
   border-radius: 40px;
 
   border: none;
-  outine: none;
+  outline: none;
 
   transition: 0.125s all ease-in;
 
